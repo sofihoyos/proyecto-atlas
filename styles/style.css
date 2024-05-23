@@ -367,6 +367,7 @@ footer > .social{
 }
 
 .social > li {
+    padding-top: 1.3rem;
     display: inline-block;
 }
 
